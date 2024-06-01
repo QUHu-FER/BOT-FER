@@ -7,7 +7,7 @@ from pydub import AudioSegment
 
 # Replace with your bot token and channel username
 BOT_TOKEN = "your token"
-CHANNEL_USERNAME = "@infoviral_ku"
+CHANNEL_USERNAME = "your channel telegram"
 
 # Configure logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
