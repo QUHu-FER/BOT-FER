@@ -1,10 +1,8 @@
-halo
-Berikut adalah contoh file README yang menarik untuk proyek bot Telegram Anda. Pastikan untuk menambahkan gambar yang relevan di direktori proyek Anda dan mengubah nama file gambar sesuai kebutuhan.
 
 ```markdown
 # YouTube Downloader Bot
 
-![YouTube Downloader Bot](images/banner.png)
+![YouTube Downloader Bot]([images/banner.png](https://www.canva.com/design/DAGG2y8luYQ/c5vycaZLgEEDCpwGyKl23g/view?utm_content=DAGG2y8luYQ&utm_campaign=designshare&utm_medium=link&utm_source=editor))
 
 Welcome to the **YouTube Downloader Bot**! This bot allows users to download YouTube videos in MP3 or MP4 format directly from Telegram. It's simple to use and integrates with a channel membership check to ensure users are subscribed before downloading.
 
@@ -92,7 +90,7 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [QUHu-FER](https://github.com/QUHu-FER)
 ```
 
 ### Adding Images
