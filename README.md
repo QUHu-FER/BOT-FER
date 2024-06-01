@@ -1,108 +1,31 @@
+  # BOT FER
+![Deskripsi Gambar](images/my.png)
 
-```markdown
-# YouTube Downloader Bot
+Deskripsi singkat tentang proyek Anda di sini.
 
-![YouTube Downloader Bot]([images/banner.png](https://www.canva.com/design/DAGG2y8luYQ/c5vycaZLgEEDCpwGyKl23g/view?utm_content=DAGG2y8luYQ&utm_campaign=designshare&utm_medium=link&utm_source=editor))
+## Tentang
 
-Welcome to the **YouTube Downloader Bot**! This bot allows users to download YouTube videos in MP3 or MP4 format directly from Telegram. It's simple to use and integrates with a channel membership check to ensure users are subscribed before downloading.
+Tulis di sini beberapa informasi tentang proyek Anda, apa tujuannya, dan mengapa Anda membuatnya.
 
-## Features
+## Fitur Utama
 
-- **Download YouTube Videos**: Get your favorite YouTube videos in MP4 format.
-- **Download YouTube Audios**: Extract and download the audio from YouTube videos in MP3 format.
-- **Channel Membership Check**: Ensure users are subscribed to your Telegram channel before they can download content.
+- Fitur 1
+- Fitur 2
 
-## How to Use
+## Cara Menggunakan
 
-1. **Start the Bot**: Send the `/start` command to the bot.
-2. **Join the Channel**: Follow the link to join the specified Telegram channel.
-3. **Refresh**: Click the 'Refresh' button after joining the channel.
-4. **Download Content**: Enter the YouTube link and choose whether to download as MP3 or MP4.
+Deskripsikan cara menggunakan proyek Anda di sini. Jika ada langkah-langkah instalasi atau konfigurasi yang perlu dilakukan, tambahkan di sini.
 
-## Screenshots
+## Gambar
 
-### Welcome Message
-![Welcome Message](images/welcome_message.png)
+![Deskripsi Gambar](images/my.png)
 
-### Main Menu
-![Main Menu](images/main_menu.png)
+Tambahkan beberapa gambar atau screenshot proyek Anda di sini untuk memberikan visualisasi tentang apa yang Anda buat.
 
-### Download MP3
-![Download MP3](images/download_mp3.png)
+## Kontribusi
 
-### Download MP4
-![Download MP4](images/download_mp4.png)
+Jika Anda ingin berkontribusi pada proyek ini, silakan buka **Issue** atau kirim **Pull Request**.
 
-## Requirements
+## Lisensi
 
-- Python 3.7 or higher
-- `python-telegram-bot==13.14`
-- `pytube==15.0.0`
-- `pydub==0.25.1`
-
-## Installation
-
-1. Clone this repository:
-
-    ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
-    ```
-
-2. Create a virtual environment and activate it:
-
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    ```
-
-3. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## Configuration
-
-Replace the placeholder values for `BOT_TOKEN` and `CHANNEL_USERNAME` in `main.py` with your actual bot token and channel username.
-
-```python
-# Replace with your bot token and channel username
-BOT_TOKEN = "YOUR_BOT_TOKEN"
-CHANNEL_USERNAME = "@your_channel_username"
-```
-
-## Running the Bot
-
-Run the bot with the following command:
-
-```bash
-python main.py
-```
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request for any improvements.
-
----
-
-Made with ❤️ by [QUHu-FER](https://github.com/QUHu-FER)
-```
-
-### Adding Images
-
-To include images in your README:
-
-1. Create an `images` directory in your project root.
-2. Add your images (e.g., `banner.png`, `welcome_message.png`, `main_menu.png`, `download_mp3.png`, `download_mp4.png`) into the `images` directory.
-3. Adjust the image paths in the README to match your image filenames.
-
-### Notes
-
-- Replace `yourusername` and `your-repo-name` with your actual GitHub username and repository name.
-- Customize the text to better fit your specific bot and use case.
-- Ensure you have the necessary permissions and rights to use and share the images included in your README.
+Proyek ini dilisensikan di bawah [Nama Lisensi]. Untuk detail lebih lanjut, lihat `LICENSE.md`.
