@@ -19,10 +19,18 @@ BOT FER is a Telegram bot designed to perform various tasks, including downloadi
 ## How to Use
 
 To use BOT FER, follow these steps:
+Before running the bot you must first install this command:
+
+pip install -r requirements.txt
+
+Wait until the installation process is successful, then you can run the bot.
 
 1. Join the designated Telegram channel.
 2. Start the bot and follow the instructions provided.
 3. Use the available commands to perform tasks such as downloading videos or managing memberships.
+
+## important 📌
+*You have to make your bot an admin in your target channel by adding it as an admin.*
 
 ## Images
 
