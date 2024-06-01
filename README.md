@@ -19,15 +19,43 @@ BOT FER is a Telegram bot designed to perform various tasks, including downloadi
 ## How to Use
 
 To use BOT FER, follow these steps:
-Before running the bot you must first install this command:
 
-pip install -r requirements.txt
+1. **Install Dependencies**: Before running the bot, you need to install the necessary dependencies. Run the following command in your terminal:
 
-Wait until the installation process is successful, then you can run the bot.
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-1. Join the designated Telegram channel.
-2. Start the bot and follow the instructions provided.
-3. Use the available commands to perform tasks such as downloading videos or managing memberships.
+    Wait until the installation process is successful, then you can run the bot.
+
+2. **Get a Bot Token from BotFather**:
+    - Open Telegram and search for BotFather.
+    - Start a chat with BotFather and use the command `/newbot`.
+    - Follow the instructions to create a new bot.
+    - Once created, you will receive a bot token. Copy this token.
+
+3. **Configure the Bot**:
+    - Open the project directory and locate the `main.py` file.
+    - Replace the `BOT_TOKEN` variable with the token you received from BotFather.
+    - Replace the `CHANNEL_USERNAME` variable with the username of your Telegram channel.
+
+4. **Run the Bot**:
+    - In your terminal, navigate to the project directory.
+    - Run the bot with the following command:
+
+    ```bash
+    python main.py
+    ```
+
+5. **Join the Designated Telegram Channel**:
+    - Join the Telegram channel specified in the `CHANNEL_USERNAME` variable.
+
+6. **Start the Bot**:
+    - Start a chat with your bot on Telegram and follow the instructions provided.
+
+7. **Use Available Commands**:
+    - Use the available commands to perform tasks such as downloading videos or managing memberships.
+
 
 ## important 📌
 *You have to make your bot an admin in your target channel by adding it as an admin.*
@@ -46,3 +74,4 @@ This project is licensed under the [BOT-FER]
 
 
 ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+![replit Logo](https://bookface-images.s3.amazonaws.com/logos/f69b9dd8b8663a44a3712e4dd86bf583117e2766.png)
